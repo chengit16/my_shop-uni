@@ -1,0 +1,157 @@
+{
+	"item": [
+		{
+			"id": 1,
+			"name": "AirPods",
+			"brand": "Apple",
+			"image": "https://img14.360buyimg.com/n0/jfs/t29245/329/1610592498/47903/a96b5a77/5ce66d6aN9e4dbef7.jpg",
+			"sales": 100000,
+			"cost": 1288,
+			"color": "白色"
+		},
+		{
+			"id": 2,
+			"name": "BeatsX 入耳式耳机",
+			"brand": "Beats",
+			"image": "https://img14.360buyimg.com/n0/jfs/t24595/220/1925658514/120748/df65b4af/5bbf3187N0d3312da.jpg",
+			"sales": 1320,
+			"cost": 488,
+			"color": "红色"
+		},
+		{
+			"id": 3,
+			"name": "Beats Solo3 Wireless 头戴式式耳机",
+			"brand": "Beats",
+			"image": "https://img14.360buyimg.com/n0/jfs/t21451/161/877158157/428151/c0b73065/5b1a4227Ncef783af.jpg",
+			"sales": 5000,
+			"cost": 2288,
+			"color": "黑色"
+		},
+		{
+			"id": 4,
+			"name": "Beats Pill+ 便携式扬声器",
+			"brand": "Beats",
+			"image": "https://img.alicdn.com/imgextra/i4/1809177149/TB24tvziSYTBKNjSZKbXXXJ8pXa-1809177149.jpg_430x430q90.jpg",
+			"sales": 3000,
+			"cost": 1888,
+			"color": "红色"
+		},
+		{
+			"id": 5,
+			"name": "戴尔（DELL）AE415 球形2.1多媒体音箱 笔记本电脑台式机家用低音炮 黑色520-AAKZ ",
+			"brand": "dell",
+			"image": "https://img14.360buyimg.com/n0/jfs/t22753/211/1852032910/48327/4a97713c/5b6aae06N3e0b52c3.jpg",
+			"sales": 8000,
+			"cost": 1578,
+			"color": "白色"
+		},
+		{
+			"id": 6,
+			"name": "外星人 Alienware AW988无线有线双模游戏电竞耳机 电脑头戴式耳麦耳机",
+			"brand": "dell",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/21275/6/1493/63176/5c1326f6E900b3f70/467da08156214764.jpg",
+			"sales": 12000,
+			"cost": 1488,
+			"color": "黑色"
+		},
+		{
+			"id": 7,
+			"name": "Beats EP 头戴式耳机",
+			"brand": "Beats",
+			"image": "https://img14.360buyimg.com/n0/jfs/t3127/5/1653023598/203349/1b43a7dd/57d132d6Nb483c256.jpg",
+			"sales": 25000,
+			"cost": 788,
+			"color": "红色"
+		},
+		{
+			"id": 8,
+			"name": "B&O PLAY beoplay E8 真无线蓝牙耳机 入耳式耳机 ",
+			"brand": "Bose",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/30084/5/15582/239356/5cc2c2d7Efba736b1/73ddb5452363f6cd.jpg",
+			"sales": 15000,
+			"cost": 1898,
+			"color": "黑色"
+		},
+		{
+			"id": 9,
+			"name": "Bose® QuietComfort® 35 无线耳机",
+			"brand": "Bose",
+			"image": "https://img14.360buyimg.com/n0/jfs/t9700/47/1923883806/60772/5051161c/59e9d758Na65b1ac3.jpg",
+			"sales": 14000,
+			"cost": 2878,
+			"color": "红色"
+		},
+		{
+			"id": 10,
+			"name": "B&O PLAY beoplay H5 入耳式蓝牙无线耳机 磁吸运动耳机",
+			"brand": "Bose",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/42646/39/12667/158323/5d5e5279E1ec32930/16b51e590102992b.jpg",
+			"sales": 9000,
+			"cost": 2298,
+			"color": "白色"
+		},
+		{
+			"id": 11,
+			"name": "Apple iPod touch 32G 金色 MKHT2CH/A",
+			"brand": "Apple",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1477/260/1127230198/102491/bb468f90/55bb423cNb40a2949.jpg",
+			"sales": 1000,
+			"cost": 1198,
+			"color": "白色"
+		},
+		{
+			"id": 12,
+			"name": "Apple iPad 平板电脑 2018年新款9.7英寸 ",
+			"brand": "Apple",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/78641/31/10353/225685/5d7f6293E9b334e1f/99f476482de1df16.jpg",
+			"sales": 9000,
+			"cost": 4298,
+			"color": "黑色"
+		},
+		{
+			"id": 13,
+			"name": "Apple Lightning/闪电转 USB 连接线",
+			"brand": "Apple",
+			"image": "https://img14.360buyimg.com/n0/jfs/t10831/124/2465217606/89566/5924b121/59f83060N7417c56b.jpg",
+			"sales": 11000,
+			"cost": 298,
+			"color": "白色"
+		},
+		{
+			"id": 14,
+			"name": "Bose QuietComfort 35 II无线消噪耳机—黑色 QC35二代蓝牙降噪耳机 ",
+			"brand": "Bose",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/7448/20/3399/135477/5bd6d995E7e8873e0/9ef9f423d32116f8.jpg",
+			"sales": 400,
+			"cost": 2298,
+			"color": "黑色"
+		},
+		{
+			"id": 15,
+			"name": "Bose SoundSport wireless无线运动耳机",
+			"brand": "Bose",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/5857/16/13216/55485/5bd6da80E84d9f2f9/3995dbd3d11cbc28.jpg",
+			"sales": 8200,
+			"cost": 1298,
+			"color": "白色"
+		},
+		{
+			"id": 16,
+			"name": "戴尔（DELL） 多媒体音箱扬声器 笔记本电脑台式机家用音箱扬声器低音炮 AX210 USB立体声音箱",
+			"brand": "dell",
+			"image": "https://img14.360buyimg.com/n0/jfs/t1/73549/8/5950/146298/5d3fac6dEc5eed161/60d6278e1c9348d7.jpg",
+			"sales": 8100,
+			"cost": 98,
+			"color": "黑色"
+		},
+		{
+			"id": 17,
+			"name": "外星人（Alienware）17英寸 电竞游戏双肩背包 原装笔记本电脑背包 异星者Elit 时尚双肩包 可拆卸斜挎包",
+			"brand": "dell",
+			"image": "https://img14.360buyimg.com/n1/s546x546_jfs/t9037/260/1987236027/109655/dff5c9f3/59c2251cN6b908a8a.jpg",
+			"sales": 80,
+			"cost": 998,
+			"color": "白色" 
+		}
+	]
+} 

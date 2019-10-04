@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shopcar/shopcar",
+    "pages/item/item"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/hom.png",
+        "selectedIconPath": "static/img/hom1.png",
+        "text": "购物"
+      },
+      {
+        "pagePath": "pages/shopcar/shopcar",
+        "iconPath": "static/img/car.png",
+        "selectedIconPath": "static/img/car1.png",
+        "text": "结算"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap89.json"
+}

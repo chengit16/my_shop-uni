@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "ban": "/pages/components/ban"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物",
+  "usingComponents": {
+    "ban": "/pages/components/ban",
+    "choose": "/pages/components/choose"
+  }
+}

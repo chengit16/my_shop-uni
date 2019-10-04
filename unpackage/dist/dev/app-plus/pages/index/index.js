@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"banTo.",[1],"data-v-26c9d1ea { height: 5%; width: 100%; }\n.",[1],"chooseTo.",[1],"data-v-26c9d1ea { height: 95%; width: 100%; }\n.",[1],"content.",[1],"data-v-26c9d1ea { margin: 0; height: 100%; width: 100%; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));
